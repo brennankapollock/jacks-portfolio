@@ -12,7 +12,7 @@ const introdata = {
     third: "multimedia artist",
   },
 
-  your_img_url: "/full-jack.jpeg",
+  your_img_url: "/static/images/full-jack.jpeg",
 };
 
 const dataabout = {
