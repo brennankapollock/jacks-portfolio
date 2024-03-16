@@ -116,7 +116,7 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: "jjack.meltzer86@gmail.com",
+  YOUR_EMAIL: "jack.meltzer86@gmail.com",
   YOUR_FONE: "(213)909-2789",
   description:
     "Feel free to reach out to me with any inquiries, collaborations, or opportunities. I'm always eager to connect and explore new possibilities. Whether you have a project in mind or just want to say hello, I'd love to hear from you. Drop me a message or give me a call, and let's start a conversation!",
